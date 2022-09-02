@@ -1,0 +1,82 @@
+main{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1{
+    color: black;
+    padding-top: 12px;
+   
+    width: 485px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 12px;
+
+}
+
+div.container{
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin: 10 auto;
+    margin-bottom: 35px;
+    padding-bottom: 50px;
+}
+
+#email{
+  width: 300px;
+  margin:0 auto;
+  background-color: rgb(165, 165, 165);
+ 
+  border: black;
+}
+
+#lab{
+    color: black; 
+    font-weight: 500; 
+    margin-top: 15px;
+}
+
+#but{
+    background-color: rgb(0, 0, 0);
+    color: rgb(247, 247, 247);
+}
+
+#imag{
+    background-image: url('../images/logo.png');
+    width: 180px;
+    margin:0 auto;
+    margin-top: 10px;
+   height: 100px;
+   border: 2px solid black;
+
+}
+
+#add{
+    width: 300px;
+    margin:0 auto;
+    background-color: rgb(165, 165, 165);
+    margin-top: 15px;
+    border: black;
+}
+
+#profile{
+    width: 250px;
+    height: 260px;
+   
+    background-image: url('../img/user.PNG');
+    background-color: rgb(255, 255, 255);
+    display: inline;
+}
+
+#pro{
+    display: inline-block;
+    
+
+}
+
+#copy{
+    margin: 0 auto;
+    color: #000000;
+    text-align: center;
+}
